@@ -1,6 +1,6 @@
 # AFS
 
-AFS is a 
+### AFS is a python script that sorts and moves files between folders that you have chosen, so you can keep the order easier on your computer
 
 ## Installation
 
